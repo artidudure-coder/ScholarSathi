@@ -213,59 +213,6 @@ Student data is sensitive. ScholarSathi follows three principles:
 
 ---
 
-## 🎤 Viva Preparation
-
-*Click each question to reveal a model answer.*
-
-<details>
-<summary><b>Q1. Why does a rule engine make the final decision instead of the LLM?</b></summary>
-
-<br>
-
-Eligibility is a yes-or-no decision with real consequences for a student, so it must be **correct, repeatable and explainable**. An LLM can hallucinate a rule or give different answers to the same input. A deterministic rule engine gives the same output every time and records exactly which rule passed or failed, which makes every decision **auditable**. The LLM is used only where it is strong: reading messy, free-form text and turning it into structured rules.
-
-</details>
-
-<details>
-<summary><b>Q2. What is RAG and where is it used here?</b></summary>
-
-<br>
-
-**Retrieval-Augmented Generation** means retrieving relevant passages from a document collection and giving them to the model as context, so its answer is grounded in real sources rather than memory. In ScholarSathi, RAG (`rag.py`) answers **detail questions** such as the application process, benefit amounts and required documents, and the answer names the source scheme.
-
-</details>
-
-<details>
-<summary><b>Q3. What makes this system agentic?</b></summary>
-
-<br>
-
-The model is not following a fixed script. Given a question, it **decides which tools to call** (`search_schemes`, `check_eligibility`, `get_documents`), looks at the results, and **loops** until it has enough information to write a grounded answer. Planning, tool selection and iteration are what make it an agent rather than a single prompt-and-response.
-
-</details>
-
-<details>
-<summary><b>Q4. How would you measure extraction accuracy, and how do you handle a wrong extraction?</b></summary>
-
-<br>
-
-**Measuring:** build a hand-labelled set of real notices (around 30), compare the extracted rules field by field against the labels, and report precision and recall per rule type.
-
-**Handling errors:** cache extracted rules so they can be **reviewed and corrected by hand**, validate values against sensible ranges (for example, marks between 0 and 100), show the source text alongside each rule in the UI so users can verify it, and fall back to "please verify" instead of a confident decision when extraction looks incomplete.
-
-</details>
-
-<details>
-<summary><b>Q5. What are the privacy risks of a student profile?</b></summary>
-
-<br>
-
-A profile combines **caste category, family income, gender, domicile and academic records**, which together are sensitive and potentially identifying. Risks include data leaks, misuse for profiling or discrimination, and exposure through logs or third-party APIs. Mitigations: keep the profile on the device, never log it, collect only the fields the rules require, and avoid sending personal details to the LLM when they are not needed for the task.
-
-</details>
-
----
-
 ## 📄 Resume Bullets
 
 <details>
