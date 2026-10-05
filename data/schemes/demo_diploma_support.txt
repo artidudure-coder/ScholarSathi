@@ -1,0 +1,17 @@
+SAMPLE DATA (fictional) - replace with official scheme text from the real portal.
+SCHEME: Demo Diploma Student Support Grant
+SUMMARY: One-time support grant for diploma students to buy books, tools and a laptop.
+ELIGIBILITY:
+- Category: Any
+- Maximum annual family income: 500000
+- Course level: Diploma
+- Minimum percentage in previous exam: 55
+- Gender: Any
+- Domicile: Maharashtra
+DEADLINE: 2026-09-15
+BENEFIT: One-time grant of Rs 15,000.
+DOCUMENTS:
+- Income certificate
+- Previous year marksheet
+- Bills or quotation for books and tools
+HOW TO APPLY: Apply online through the polytechnic's scholarship cell.

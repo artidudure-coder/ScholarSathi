@@ -1,0 +1,18 @@
+SAMPLE DATA (fictional) - replace with official scheme text from the real portal.
+SCHEME: Demo EWS Hostel and Mess Aid
+SUMMARY: Financial aid for hostel and mess charges for students from economically weaker families who are not covered by category-based schemes.
+ELIGIBILITY:
+- Category: EWS, Open
+- Maximum annual family income: 300000
+- Course level: Diploma, UG, PG
+- Minimum percentage in previous exam: 45
+- Gender: Any
+- Domicile: Maharashtra
+DEADLINE: 2026-10-20
+BENEFIT: Rs 3,000 per month for 10 months towards hostel and mess charges.
+DOCUMENTS:
+- Income certificate
+- EWS certificate
+- Hostel allotment letter
+- Previous year marksheet
+HOW TO APPLY: Apply through the college hostel office, which uploads the application on the state portal.

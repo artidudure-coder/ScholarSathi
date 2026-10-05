@@ -1,0 +1,18 @@
+SAMPLE DATA (fictional) - replace with official scheme text from the real portal.
+SCHEME: Demo State Merit Scholarship
+SUMMARY: Merit-based yearly scholarship for undergraduate and postgraduate students with a strong academic record, open to all categories.
+ELIGIBILITY:
+- Category: Any
+- Maximum annual family income: 800000
+- Course level: UG, PG
+- Minimum percentage in previous exam: 60
+- Gender: Any
+- Domicile: Maharashtra
+DEADLINE: 2026-11-30
+BENEFIT: Rs 25,000 per year, paid directly to the student's bank account.
+DOCUMENTS:
+- Income certificate
+- Previous year marksheet
+- Domicile certificate
+- Aadhaar-linked bank passbook
+HOW TO APPLY: Register on the scholarship portal, fill the online form, upload documents and submit before the deadline. Verify the application at the college scholarship cell.

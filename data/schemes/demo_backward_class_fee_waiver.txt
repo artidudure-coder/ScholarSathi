@@ -1,0 +1,19 @@
+SAMPLE DATA (fictional) - replace with official scheme text from the real portal.
+SCHEME: Demo Backward Class Tuition Fee Waiver
+SUMMARY: Waives tuition fees for students from reserved categories studying diploma, undergraduate or postgraduate courses in the state.
+ELIGIBILITY:
+- Category: SC, ST, OBC, VJNT, SBC
+- Maximum annual family income: 600000
+- Course level: Diploma, UG, PG
+- Minimum percentage in previous exam: 50
+- Gender: Any
+- Domicile: Maharashtra
+DEADLINE: 2026-11-15
+BENEFIT: 100% tuition fee waiver, reimbursed to the college.
+DOCUMENTS:
+- Caste certificate
+- Caste validity certificate
+- Income certificate
+- Previous year marksheet
+- Fee receipt
+HOW TO APPLY: Apply through the online scholarship portal. The college verifies the caste and fee documents, then forwards the application to the district office.

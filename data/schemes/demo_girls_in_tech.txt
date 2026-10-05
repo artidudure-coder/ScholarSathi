@@ -1,0 +1,18 @@
+SAMPLE DATA (fictional) - replace with official scheme text from the real portal.
+SCHEME: Demo Girls in Technology Fellowship
+SUMMARY: Fellowship that encourages women to study engineering and technology courses, with a yearly grant and a mentoring programme.
+ELIGIBILITY:
+- Category: Any
+- Maximum annual family income: 1000000
+- Course level: UG, PG
+- Minimum percentage in previous exam: 65
+- Gender: Female
+- Domicile: Any
+DEADLINE: 2026-12-15
+BENEFIT: Rs 40,000 per year plus an industry mentor.
+DOCUMENTS:
+- Previous year marksheet
+- Income certificate
+- College bonafide letter
+- Statement of purpose (300 words)
+HOW TO APPLY: Submit the online application with a statement of purpose. Shortlisted candidates are interviewed online.
